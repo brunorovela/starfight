@@ -14,6 +14,9 @@ Jogo desenvolvido em 2005 usando a biblioteca allegro 4.
 
 ![image](https://github.com/user-attachments/assets/84723d7b-43e4-41c1-a950-879579fbd69a)
 
+## Jogo
+
+![image](https://github.com/user-attachments/assets/ab73f28e-989d-4030-8e02-d88a68fb1596)
 
 ## Fim de jogo
 
